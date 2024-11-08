@@ -103,7 +103,7 @@ try:
 except CustomError as e:
     print(e)
 ```
-#### Common Exceptions
+### Common Exceptions
 * FileNotFoundError: Raised when a file is not found.
 * ZeroDivisionError: Raised when dividing by zero.
 * TypeError: Raised for invalid operations on types.
